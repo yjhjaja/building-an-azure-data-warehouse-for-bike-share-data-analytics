@@ -2,7 +2,7 @@ Divvy is a bike sharing program in Chicago, Illinois, USA, that allows riders to
 
 Since the data are anonymous, fake rider and account profiles have been generated along with fake payments to go along with the Divvy Bikeshare data. The image below represents the data model. The tables are: Rider, Account, Payment, Trip, and Station.
 
-![Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)](data_structure_raw.jpeg "Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)")
+![Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)](data_model.jpeg "Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)")
 
 The business outcomes
 
