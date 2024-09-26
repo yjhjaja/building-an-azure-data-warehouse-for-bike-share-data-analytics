@@ -4,10 +4,9 @@ Divvy is a bike sharing program in Chicago, Illinois, USA that allows riders to 
 
 Since the data are anonymous, fake rider and account profiles have been generated along with fake payment data to go along with the data from Divvy. The dataset looks like this:
 
-![alt text](data_structure_raw.jpeg "Title")
+![Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)](data_structure_raw.jpeg "Title")
 
 This image represents the data model for the dataset based on the Divvy Bikeshare data. The tables include: Rider, Account, Payment, Trip, and Station.
-Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)
 
 The goal of this project is to develop a data lake solution using Azure Databricks using a lake house architecture. You will:
 
