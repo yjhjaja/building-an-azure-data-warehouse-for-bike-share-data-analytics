@@ -6,11 +6,11 @@ Since the data are anonymous, fake rider and account profiles have been generate
 
 ![Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)](data_structure_raw.jpeg "Title")
 
-The goal is to develop a data lake solution using Azure Databricks using a lake house architecture. I will
-* Design a star schema based on the business outcomes below;
-* Import the data into Azure Databricks using Delta Lake to create a Bronze data store;
-* Create a gold data store in Delta Lake tables;
-* Transform the data into the star schema for a Gold data store;
+The goal is to develop a data lake solution using Azure Databricks and a lake house architecture. I will
+* Design a star schema based on the business outcomes below
+* Import the data into Azure Databricks using Delta Lake to create a Bronze data store
+* Create a gold data store in Delta Lake tables
+* Transform the data into the star schema for a Gold data store
 
 The business outcomes
 
